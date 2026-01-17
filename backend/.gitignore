@@ -26,10 +26,11 @@ dist-ssr
 
 # Ignore environment variables
 .env
+backend/.env
 
 
 # Node.js dependencies
-node_modules/
+backend/node_modules/
 
 # Environment variables
 .env
