@@ -1,0 +1,5 @@
+Creat a Env File create these field below
+
+PORT=8000
+MONGO_URI = mongodb_Url
+SECRET_KEY = secretkey
